@@ -2,3 +2,4 @@
 - 👀 I’m interested in molecules and materials.
 - 🌱 I’m currently exploring materials and molecules for energy applications using QM, tightbinding, and ML techniques.
 - 💞️ I’m looking to collaborate on catalysis, thermoelectric and defected materials!!
+- I love Modern Fortran, Python, and C.
