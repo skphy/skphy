@@ -1,4 +1,4 @@
 - 👋 Hi, I’m sonu, a computational and theoretical physicist, and a materials chemist.
 - 👀 I’m interested in molecules and materials.
 - 🌱 I’m currently exploring materials and molecules for energy applications using QM, tightbinding, and ML techniques.
-- I love Modern Fortran, Python, and C.
+- I love Modern Fortran, Python, C, and a bit C++.
