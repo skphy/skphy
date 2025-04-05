@@ -2,7 +2,7 @@
 
 <h3 align="center"> Welcome 👋</h3>
 
-<p align="center">
+<p align="left">
 - I'm Sonu, a learner in materials science and physics.
 - 👋 Hi, I’m a computational physicist and a materials chemist.
 - 👀 I’m interested in molecules and materials.
