@@ -3,6 +3,7 @@
 <h3 align="center"> Welcome 👋</h3>
 
 <p>
+  
 - I'm Sonu, a learner in materials science and physics. 
   
 - 👋 Hi, I’m a computational physicist and a materials chemist.
@@ -13,6 +14,8 @@
   
 - I love Modern Fortran + Python, C, and a bit of C++. 
 </p>
+
+<br/>
 
 <h4 align="center">
 💻 Programming machines using ML <a href="https://skphy.github.io/esta/html/index.html">@EStA-HOME</a> | 🌱 building <a href="https://skphy.github.io/esta/html/file3.html">Examples</a> | 💬 connect <a href="https://twitter.com/sonukumar">@sonukumar</a>
