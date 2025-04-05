@@ -2,7 +2,7 @@
 
 <h3 align="center"> Welcome 👋</h3>
 
-<p align="center"> 
+<h4 align="center"> 
   
 - I'm Sonu, a learner in materials science and physics. 
   
@@ -13,7 +13,7 @@
 - 🌱 I’m currently exploring materials and molecules for energy applications using QM, tight-binding, and ML techniques.
   
 - I love Modern Fortran + Python, C, and a bit of C++. 
-</p>
+</h4>
 
 <br/>
 
