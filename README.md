@@ -3,6 +3,7 @@
 <h3 align="center"> Welcome 👋</h3>
 
 <p align="center"> 
+  
 - I'm Sonu, a learner in materials science and physics. 
   
 - 👋 Hi, I’m a computational physicist and a materials chemist. 
